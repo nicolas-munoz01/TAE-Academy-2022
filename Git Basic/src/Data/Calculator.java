@@ -1,3 +1,5 @@
+package Data;
+
 public class Calculator {
 
     public int sumOperation(int firstNumber, int secondNumber){
